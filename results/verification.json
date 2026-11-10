@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "metric_rows_recomputed": 84,
+  "checkpoints_verified": 12,
+  "fresh_checkpoint_predictions_verified": 512,
+  "train_validation_index_overlap": 0,
+  "train_per_class": 1200,
+  "validation_per_class": 300,
+  "validation_images_identical_to_train": 0,
+  "test_images_identical_to_train": 0,
+  "test_class_counts": [
+    980,
+    1135,
+    1032,
+    1010,
+    982,
+    892,
+    958,
+    1028,
+    974,
+    1009
+  ]
+}

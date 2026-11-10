@@ -1,0 +1,110 @@
+{
+  "11_gaussian_0.0": {
+    "delta": 0.0019,
+    "ci_low": 0.0001,
+    "ci_high": 0.0036024999999999864,
+    "repetitions": 2000,
+    "seed": 1901,
+    "a_wrong_b_right": 49,
+    "a_right_b_wrong": 30
+  },
+  "11_gaussian_0.3": {
+    "delta": 0.022,
+    "ci_low": 0.0181,
+    "ci_high": 0.026,
+    "repetitions": 2000,
+    "seed": 1901,
+    "a_wrong_b_right": 312,
+    "a_right_b_wrong": 92
+  },
+  "11_gaussian_0.5": {
+    "delta": 0.1885,
+    "ci_low": 0.18039750000000002,
+    "ci_high": 0.1970025,
+    "repetitions": 2000,
+    "seed": 1901,
+    "a_wrong_b_right": 2047,
+    "a_right_b_wrong": 162
+  },
+  "11_salt_pepper_0.1": {
+    "delta": 0.0435,
+    "ci_low": 0.0388,
+    "ci_high": 0.048102499999999986,
+    "repetitions": 2000,
+    "seed": 1901,
+    "a_wrong_b_right": 494,
+    "a_right_b_wrong": 59
+  },
+  "22_gaussian_0.0": {
+    "delta": -0.0021,
+    "ci_low": -0.0044,
+    "ci_high": 0.0003,
+    "repetitions": 2000,
+    "seed": 1901,
+    "a_wrong_b_right": 57,
+    "a_right_b_wrong": 78
+  },
+  "22_gaussian_0.3": {
+    "delta": 0.0361,
+    "ci_low": 0.0317975,
+    "ci_high": 0.04050249999999999,
+    "repetitions": 2000,
+    "seed": 1901,
+    "a_wrong_b_right": 439,
+    "a_right_b_wrong": 78
+  },
+  "22_gaussian_0.5": {
+    "delta": 0.2287,
+    "ci_low": 0.2204,
+    "ci_high": 0.2377,
+    "repetitions": 2000,
+    "seed": 1901,
+    "a_wrong_b_right": 2397,
+    "a_right_b_wrong": 110
+  },
+  "22_salt_pepper_0.1": {
+    "delta": 0.0236,
+    "ci_low": 0.0194975,
+    "ci_high": 0.0277,
+    "repetitions": 2000,
+    "seed": 1901,
+    "a_wrong_b_right": 329,
+    "a_right_b_wrong": 93
+  },
+  "33_gaussian_0.0": {
+    "delta": 0.003,
+    "ci_low": 0.0008,
+    "ci_high": 0.0053,
+    "repetitions": 2000,
+    "seed": 1901,
+    "a_wrong_b_right": 80,
+    "a_right_b_wrong": 50
+  },
+  "33_gaussian_0.3": {
+    "delta": 0.0164,
+    "ci_low": 0.0132975,
+    "ci_high": 0.0196,
+    "repetitions": 2000,
+    "seed": 1901,
+    "a_wrong_b_right": 213,
+    "a_right_b_wrong": 49
+  },
+  "33_gaussian_0.5": {
+    "delta": 0.1367,
+    "ci_low": 0.1293,
+    "ci_high": 0.1442,
+    "repetitions": 2000,
+    "seed": 1901,
+    "a_wrong_b_right": 1500,
+    "a_right_b_wrong": 133
+  },
+  "33_salt_pepper_0.1": {
+    "delta": 0.0195,
+    "ci_low": 0.0162,
+    "ci_high": 0.023,
+    "repetitions": 2000,
+    "seed": 1901,
+    "a_wrong_b_right": 252,
+    "a_right_b_wrong": 57
+  }
+}
